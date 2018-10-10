@@ -1,5 +1,5 @@
 # Level 0: Learn to Code Python
-An absolute beginner's first time lesson to learn how to code.
+An absolute beginner's first time lesson to code in Python.
 
 ## What does it mean to code?
 When you write code, you are using a programming language to instruct the computer how to perform different tasks like add numbers together, display a webpage, or store information into a database.  You can use programming languages like Python by writing these instructions to a file inside of a special developer's program that looks a lot like Microsoft Word (but for code).  When run a program, the computer translates the programming language into something it can understand how to follow.  The computer follows the program, and returns a result.
